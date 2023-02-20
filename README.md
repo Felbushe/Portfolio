@@ -30,4 +30,4 @@ https://docs.google.com/spreadsheets/d/125eQLvsa6DYd3HcJN9kKxMNp-_kRgPD1rplg68pL
 https://docs.google.com/spreadsheets/d/1F2ALOXE-JPexZ7nfIAHMbTojzLEPTkMJfbqwXoB6P1E/edit?usp=sharing
 -Регрессионного и подтверждающего тестирования:
 https://docs.google.com/spreadsheets/d/1u4sPCPN6F0jJIXv65g9_6trxAJ5wpAHwWAC2W0oGloQ/edit?usp=sharing
-![image](https://user-images.githubusercontent.com/110114900/220059877-cf441462-8a29-41e7-a93f-e3c7870d0eb4.png)
+
