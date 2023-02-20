@@ -28,6 +28,7 @@ https://docs.google.com/spreadsheets/d/1RK4rK-I6vWpLsOGB2dZs4FmN-Je6Mvzf5YkrPE_U
 https://docs.google.com/spreadsheets/d/125eQLvsa6DYd3HcJN9kKxMNp-_kRgPD1rplg68pLkoE/edit?usp=sharing
 - Составления тест-плана для тестирования функции:
 https://docs.google.com/spreadsheets/d/1F2ALOXE-JPexZ7nfIAHMbTojzLEPTkMJfbqwXoB6P1E/edit?usp=sharing
+
 -Регрессионного и подтверждающего тестирования:
 https://docs.google.com/spreadsheets/d/1u4sPCPN6F0jJIXv65g9_6trxAJ5wpAHwWAC2W0oGloQ/edit?usp=sharing
 
